@@ -85,7 +85,7 @@ if (isset($_SESSION["user"])) {
             </div>
         </form>
         <div>
-        <div><p>Already Registered <a href="login.php">Login Here</a></p></div>
+        <div><p>Đã có tài khoản. <a href="login.php">Đăng nhập.</a></p></div>
       </div>
     </div>
 </body>

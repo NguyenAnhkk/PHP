@@ -85,7 +85,7 @@ $result = mysqli_query($conn, $sql);
 <body>
     <div class="container">
         <h1>DỰ ÁN</h1>
-        <a href="logout.php" class="btn btn-warning">Logout</a>
+        <a href="logout.php" class="btn btn-warning">Đăng xuất.</a>
 
         <!-- Nút Thêm Dự Án -->
         <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addProjectModal">Thêm Dự Án</button>
